@@ -14,5 +14,9 @@ As started above, main purpuse is to provide simple examples for git training de
 
 This is a simple web project, development can be on any web server or any local file system.
 
+### Copyright 
+
+2021 Git.training
+
 ## How To Contribute
 
