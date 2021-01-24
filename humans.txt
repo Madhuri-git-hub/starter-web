@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <madhuri> -- <devops engineer> -- <twitter>
 
 # THANKS
 
