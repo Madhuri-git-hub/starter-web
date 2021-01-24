@@ -19,4 +19,6 @@ This is a simple web project, development can be on any web server or any local 
 2021 Git.training
 
 ## How To Contribute
+Please fork this repository and then issue pull request to review.
+
 
